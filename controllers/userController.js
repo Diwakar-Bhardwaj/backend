@@ -76,5 +76,4 @@ const updatepassword = async (req, res) => {
 };
 
 
-
 module.exports = { usercontroller, logincontroller, updatepassword };
